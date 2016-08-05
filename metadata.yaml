@@ -1,0 +1,30 @@
+_repo: The-Story-of-Ab--A-Tale-of-the-Time-of-the-Cave-Man_8644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waterloo, Stanley
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '2830'
+    url: http://www.gutenberg.org/2009/agents/2830
+description: "The Story of Ab is a novel written by Stanley Waterloo in 1897.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8644'
+  wikidata: Q7766737
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Story of Ab: A Tale of the Time of the Cave Man'
+url: http://www.gutenberg.org/ebooks/8644
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%A9_%D8%A2%D8%A8
+- https://en.wikipedia.org/wiki/The_Story_of_Ab
